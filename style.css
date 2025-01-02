@@ -1,0 +1,25 @@
+h1{
+    text-align:center;
+    text-decoration:wavy red underline;
+    letter-spacing: 5px;
+    font-size: 25px;
+    font-family:avant garde, didot, sans-serif;
+}
+h3{
+    text-align:right;
+    text-decoration:pink line-through;
+}
+p{
+    text-align:center;
+    font-weight: bold;
+    line-height:2.5;
+    font-size: 5px;
+    font-family:impact;
+}
+h2{
+    font-weight: 800;
+    text-decoration:double blue overline;
+}
+a{
+    text-decoration: none;
+}
